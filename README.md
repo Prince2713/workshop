@@ -1,2 +1,0 @@
-# workshop
-python crash course
